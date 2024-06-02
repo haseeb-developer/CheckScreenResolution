@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Comfortaa", sans-serif;
+  /* font-family: "Comfortaa", sans-serif; */
 }
 
 body {
@@ -17,4 +17,5 @@ body {
 
 h1 {
   font-size: 100px;
+  font-family: sans-serif;
 }
